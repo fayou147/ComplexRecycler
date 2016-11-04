@@ -1,10 +1,8 @@
 # ComplexRecycler
 
-----
 
 ## this is add header and footer to section recyclerview project
 
-----
 ![image](https://github.com/fayou147/ComplexRecycler/blob/master/image/GIF.gif)
 
 ![image](https://github.com/fayou147/ComplexRecycler/blob/master/image/GIF111.gif)
