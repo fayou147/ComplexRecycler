@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         /**
          * 3 包括header , footer 的Grid
          */
-//        gridHeaderAndFooter();
+        //gridHeaderAndFooter();
 
 
         /**
